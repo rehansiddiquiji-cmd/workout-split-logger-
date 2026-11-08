@@ -1,0 +1,18 @@
+{
+  "day": "Push Day",
+  "exercises": [
+    {
+      "name": "Barbell Bench Press",
+      "sets": 4,
+      "reps": [10, 8, 8, 6],
+      "weight_kg": 60
+    },
+    {
+      "name": "Overhead Press",
+      "sets": 3,
+      "reps": [10, 10, 8],
+      "weight_kg": 35
+    }
+  ],
+  "calories_burned_estimate": 350
+}
